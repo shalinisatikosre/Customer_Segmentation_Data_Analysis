@@ -29,15 +29,15 @@ This project analyzes customer purchasing behavior using Python and Power BI. Th
 
 ### Female Customer Analysis
 
-![Female Analysis](female_analysis.png)
+![Female Analysis](Female Analysis.png)
 
 ### Male Customer Analysis
 
-![Male Analysis](male_analysis.png)
+![Male Analysis](Male Analysis.png)
 
 ### Other (Transgender) Customer Analysis
 
-![Other Analysis](other_analysis.png)
+![Other Analysis](Other Analysis.png)
 
 ## Key Insights
 
